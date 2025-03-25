@@ -3,11 +3,13 @@
 #include <fstream>
 
 // Classe base
+using std::string;
+
 class Funcionario {
 protected:
-    std::string nome;
-    int idade;
-    double salario;
+  string nome;
+  int idade;
+  double salario;
 
 public:
     Funcionario(std::string nome, int idade, double salario) 
