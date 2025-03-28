@@ -2,9 +2,9 @@
 estudando c++
 
 1. Basic Operations
-    [ ] Arithmetic Operators
-    [ ] Logical Operators
-    [ ] Bitwise Operators
+    [x] Arithmetic Operators
+    [x] Logical Operators
+    [x] Bitwise Operators
 
 2. Control Flow & Statements
     [ ] if else / switch / goto

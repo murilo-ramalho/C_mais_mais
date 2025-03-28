@@ -18,5 +18,12 @@ int main (int argc, char *argv[]) {
     std::cout << "\nmulticremento: " << a;
     a /= 10;
     std::cout << "\ndivcremento: " << a;
+    
+    for(int i = 0; i<10;i++) {
+        std::cout << "\nincremento ++: " << i;
+    }
+    for(signed int i = 0; i > -10; i--) {
+        std::cout << "\ndecremento --: " << i;
+    }
     return 0;
 }
