@@ -7,8 +7,8 @@ estudando c++
     [x] Bitwise Operators
 
 2. Control Flow & Statements
-    [ ] if else / switch / goto
-    [ ] for / while / do while loops
+    [x] if else / switch / goto
+    [x] for / while / do while loops
 
 3. Functions
     [ ] Operator Overloading

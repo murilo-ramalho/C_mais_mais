@@ -13,5 +13,16 @@ int main(){
         std::cout << "idoso" << std::endl;
     }
 
+    switch (idade) {
+        case 10:
+            std::cout << "de menor" << std::endl;
+            break;
+        case 18:
+            std::cout << "de maior" << std::endl;
+            break;
+        default:
+            std::cout << "idoso" << std::endl;
+            break;
+    }
     return 0;
 }

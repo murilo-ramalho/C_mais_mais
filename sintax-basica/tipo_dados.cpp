@@ -7,7 +7,7 @@ int main (int argc, char *argv[]) {
     double flutuante_grande = 2.291; // 8 bytes	±1.7E−308 a ±1.7E+308
     char letra = 'a'; // 1 byte	0 a 255 (valores ASCII)
     bool booleano = true; // 1 byte	true ou false
-    void funcao(); // 0 bytes	Sem valor (usado em funções)
+    void funcao(); // 0 bytes Sem valor (usado em funções)
     std::cout << "int, float, double, char, bool, void\n";
 
     std::cout << "modificadores de tipo\n";
