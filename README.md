@@ -11,10 +11,10 @@ estudando c++
     [x] for / while / do while loops
 
 3. Functions
-    [ ] Operator Overloading
-    [ ] Lambdas
+    [x] Operator Overloading
+    [x] Lambdas
     [ ] Static Polymorphism
-    [ ] Function Overloading
+    [x] Function Overloading
 
 4. Data Types
     [ ] Static Typing
